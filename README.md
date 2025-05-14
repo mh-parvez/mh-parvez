@@ -9,7 +9,6 @@
 </p>
 
 <h2 align="center">
-  JavaScript ▪ TypeScript ▪ React.js ▪ Next.js ▪ Node.js ▪ CSS ▪ SCSS ▪ Tailwind
 </h2>
 
 <p align='center'>
